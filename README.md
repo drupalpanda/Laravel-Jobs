@@ -52,14 +52,6 @@ Optionally copy the administrator config to your administrators model config dir
 
 There are loads of options in the config file, check it out.
 
-## Administrator
-
-You can use the excellent Laravel Administrator package by frozennode to administer your jobs.
-
-http://administrator.frozennode.com/docs/installation
-
-A ready-to-use model config file for the Job model (jobs.php) is provided in the src/config/administrator directory of the package, which you can copy into the app/config/administrator directory (or whatever you set as the model_config_path in the administrator config file).
-
 ## Faker seed
 
 The package comes with a seed that can populate the table with a whole bunch of sample jobs. To run it:
